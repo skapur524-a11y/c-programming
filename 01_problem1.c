@@ -7,7 +7,7 @@ int main(){
    printf("Enter the length of rectangle:\n");
    scanf("%d", &length);
 
-    printf("Enter the breagth\n");
+    printf("Enter the breadth of rectangle:\n");
     scanf("%d", &breadth);
 
     printf("The area of this rectangle is %d", length*breadth);
